@@ -1,0 +1,40 @@
+{
+  "ref": "refs/heads/test-brach",
+  "after": "0000000000000000000000000000000000000000",
+  "before": "dffb1a696e878b866990ae4974b9dfc414a93edb",
+  "created": false,
+  "deleted": true,
+  "forced": true,
+  "compare": "https://github.com/chytreg/test/compare/dffb1a696e87...000000000000",
+  "commits": [
+
+  ],
+  "head_commit": null,
+  "repository": {
+    "id": 16217111,
+    "name": "test",
+    "url": "https://github.com/chytreg/test",
+    "description": "",
+    "watchers": 0,
+    "stargazers": 0,
+    "forks": 0,
+    "fork": false,
+    "size": 0,
+    "owner": {
+      "name": "chytreg",
+      "email": "dariusz.gertych@gmail.com"
+    },
+    "private": false,
+    "open_issues": 0,
+    "has_issues": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "created_at": 1390597972,
+    "pushed_at": 1390598770,
+    "master_branch": "master"
+  },
+  "pusher": {
+    "name": "chytreg",
+    "email": "dariusz.gertych@gmail.com"
+  }
+}
