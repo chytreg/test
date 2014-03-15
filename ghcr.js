@@ -32667,7 +32667,7 @@ Template = {
 
 "use strict";
 
-new (GHCR = (function() {
+GHCR = (function() {
   function GHCR() {
     this.notification = __bind(this.notification, this);
     var ghcrConfig, observer,
@@ -33010,7 +33010,7 @@ new (GHCR = (function() {
 
   return GHCR;
 
-})());
+})();
 
 /*
 //
